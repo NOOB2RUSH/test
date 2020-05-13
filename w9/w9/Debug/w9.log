@@ -1,0 +1,12 @@
+﻿  w9.cpp
+c:\users\machenike\source\repos\w9\w9\w9.cpp(68): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\users\machenike\source\repos\w9\w9\w9.cpp(68): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\machenike\source\repos\w9\w9\w9.cpp(68): warning C4838: 从“const double”转换到“int”需要收缩转换
+c:\users\machenike\source\repos\w9\w9\w9.cpp(68): warning C4244: “初始化”: 从“const double”转换到“int”，可能丢失数据
+c:\users\machenike\source\repos\w9\w9\w9.cpp(69): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\users\machenike\source\repos\w9\w9\w9.cpp(69): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\machenike\source\repos\w9\w9\w9.cpp(69): warning C4838: 从“const double”转换到“int”需要收缩转换
+c:\users\machenike\source\repos\w9\w9\w9.cpp(69): warning C4244: “初始化”: 从“const double”转换到“int”，可能丢失数据
+c:\users\machenike\source\repos\w9\w9\w9.cpp(120): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\machenike\source\repos\w9\w9\w9.cpp(123): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  w9.vcxproj -> C:\Users\MACHENIKE\source\repos\w9\Debug\w9.exe
